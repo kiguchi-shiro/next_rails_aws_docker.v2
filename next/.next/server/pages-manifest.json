@@ -1,8 +1,7 @@
 {
-  "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
-  "/hello_mui": "pages/hello_mui.js",
-  "/hello_world": "pages/hello_world.js",
-  "/": "pages/index.js"
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/hello_mui": "pages/hello_mui.js"
 }
